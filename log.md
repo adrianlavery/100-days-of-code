@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 23rd March, Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've gone through exercises on github learning.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've done a bit of coding in the past and used github a bit, but only really to store code. I wanted to start by learning to use github properly, how to work with issues, pull requests etc.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Github Intro](https://github.com/adrianlavery/intro-html)
+2. [Markdown](https://github.com/adrianlavery/markdown-portfolio)
+3. [Slideshow](https://github.com/adrianlavery/github-slideshow)
+4. [Github Pages](https://github.com/adrianlavery/github-pages-with-jekyll)
+
+### Day 2: 24th March, Sunday
+
+**Today's Progress**: Started coding in python using Azure Notebooks.
+
+**Thoughts** I've been thinking about what to focus on for this challenge. I want to get more comfortable with writing code, but not sure of what area. Data Science / Machine Learning is something I have been interested in for a while, so thought I'd do a few days of that.
+
+**Link(s) to work**
+1. [Climate Change](https://notebooks.azure.com/adrian-lavery/projects/climate-change)
+2. [Flight Statistics](https://notebooks.azure.com/adrian-lavery/projects/ml-projects)
